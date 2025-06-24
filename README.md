@@ -1,4 +1,4 @@
 # Activitées journalières
-Balades quotidiennes
-Alimentation
-Soins particuliers
+# Balades quotidiennes
+# Alimentation
+# Soins particuliers

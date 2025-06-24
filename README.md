@@ -1,0 +1,1 @@
+# Activit-s-journali-res
